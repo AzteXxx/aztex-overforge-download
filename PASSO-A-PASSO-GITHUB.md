@@ -44,11 +44,12 @@ Suba apenas os arquivos desta pasta:
 1. abra o repositorio no GitHub
 2. clique em `Releases`
 3. clique em `Draft a new release`
-4. tag: `v2.8.19`
-5. title: `AzteX Overforge v2.8.19`
+4. tag: `v2.9.0`
+5. title: `AzteX Overforge v2.9.0`
 6. copie o texto de `RELEASE-TEMPLATE.md`
 7. anexe:
-   - `AzteX-Overforge-v2.8.19.zip`
+   - `AzteX-Overforge-v2.9.0.exe`
+   - `AzteX-Overforge-v2.9.0.zip`
    - `SHA256SUMS.txt`
 8. publique a release
 

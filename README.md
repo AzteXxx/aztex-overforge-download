@@ -8,14 +8,15 @@ O download oficial do `AzteX Overforge` fica na aba `Releases` deste repositorio
 
 Arquivos da release:
 
-- `AzteX-Overforge-v2.8.19.zip`
+- `AzteX-Overforge-v2.9.0.exe`
+- `AzteX-Overforge-v2.9.0.zip`
 - `SHA256SUMS.txt`
 
 ## Como usar
 
-1. baixe o `.zip` da release
-2. extraia tudo
-3. abra `AzteX-Overforge.cmd` como administrador
+1. baixe a release
+2. se baixar o `.zip`, extraia tudo
+3. abra `AzteX Overforge.exe` como administrador
 4. use a versao `Free`
 5. se quiser desbloquear a `Pro`, copie o `machine hash` dentro da suite e solicite sua ativacao
 
@@ -41,4 +42,3 @@ Sempre confira o arquivo `SHA256SUMS.txt` da release para validar o pacote ofici
 ## Suporte
 
 Para suporte, ativacao Pro ou duvidas, entre em contato pelo Discord oficial do projeto.
-
